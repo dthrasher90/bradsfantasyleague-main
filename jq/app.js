@@ -13,7 +13,7 @@ $(document).ready(function (){
       .fadeIn(3500)
       .end()
       .appendTo('#slideshow');
-  },  3000);
+  },  (3000);
 
 
 
